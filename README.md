@@ -7,7 +7,7 @@ This is a simple To-Do List Web Application built using Python, SQL, HTML, and C
 
 ## Screenshot
 
-![Home Page](screenshots/homepage.png)
+![Home Page](homepage.png)
 ## Features
 
 * Add new tasks
