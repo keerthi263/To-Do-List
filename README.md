@@ -5,6 +5,7 @@
 
 This is a simple To-Do List Web Application built using Python, SQL, HTML, and CSS. The application allows users to add, update, delete, and view tasks through a web browser.
 
+image:Screenshot 2026-06-02 132608.png
 ## Features
 
 * Add new tasks
